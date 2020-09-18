@@ -55,7 +55,7 @@
     "passport-yahoo": "git://github.com/OpenUserJs/passport-yahoo.git#OpenID2",
     "pegjs": "0.10.0",
     "rate-limit-mongo": "1.0.3",
-    "request": "2.88.0",
+    "request": "2.88.2",
     "rfc2047": "2.0.1",
     "s3rver": "2.2.7",
     "sanitize-html": "1.20.0",
