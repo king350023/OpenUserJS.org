@@ -24,7 +24,7 @@
     "formidable": "1.2.1",
     "git-rev": "0.2.1",
     "github": "git://github.com/octokit/rest.js.git#29dedb3",
-    "highlight.js": "9.13.1",
+    "highlight.js": "10.6.0",
     "image-size": "0.6.3",
     "ip-range-check": "0.0.2",
     "jquery": "3.3.1",
