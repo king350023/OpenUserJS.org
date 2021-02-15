@@ -35,7 +35,7 @@
     "marked": "0.5.2",
     "media-type": "0.3.1",
     "method-override": "3.0.0",
-    "mime-db": "1.37.0",
+    "mime-db": "1.46.0",
     "moment": "2.23.0",
     "moment-duration-format": "2.2.2",
     "mongodb": "3.1.10",
