@@ -32,7 +32,7 @@
     "jsdom": "13.1.0",
     "jwt-simple": "0.5.5",
     "less-middleware": "3.0.1",
-    "marked": "0.5.2",
+    "marked": "2.0.1",
     "media-type": "0.3.1",
     "method-override": "3.0.0",
     "mime-db": "1.37.0",
